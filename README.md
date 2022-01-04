@@ -1,6 +1,8 @@
 # Modelo Portfólio da Origamid
 Web site portfólio, desenvolvido utilizando o modelo do curso da Origamid.
 
+<img alt="gif-model-portfolio" src="./model-portfolio.gif" width="650" height="400" />
+
 ## Executando o projeto
 1. Baixe o projeto
 ~~~
